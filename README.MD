@@ -1,4 +1,4 @@
-# iphone-5c-4G_crack
+# iphone5c-4g-crack:
 + open mac terminal
   - command:
     * `defaults write com.apple.iTunes carrier-testing -bool YES`
