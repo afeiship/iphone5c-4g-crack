@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>ctwap</string>
+	</dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<array>
+				<dict>
+					<key>DefaultsData</key>
+					<dict>
+						<key>apns</key>
+						<array>
+							<dict>
+								<key>apn</key>
+								<string>ctwap</string>
+								<key>password</key>
+								<string>vnet.mobi</string>
+								<key>proxy</key>
+								<string>10.0.0.200</string>
+								<key>proxyPort</key>
+								<integer>80</integer>
+								<key>username</key>
+								<string>ctwap@mycdma.cn</string>
+							</dict>
+						</array>
+					</dict>
+					<key>DefaultsDomainName</key>
+					<string>com.apple.managedCarrier</string>
+				</dict>
+			</array>
+			<key>PayloadDescription</key>
+			<string>Provides customization of carrier Access Point Name.</string>
+			<key>PayloadDisplayName</key>
+			<string>Advanced Settings</string>
+			<key>PayloadIdentifier</key>
+			<string>com.ctcc.ctwap.apn1</string>
+			<key>PayloadOrganization</key>
+			<string>ctwap</string>
+			<key>PayloadType</key>
+			<string>com.apple.apn.managed</string>
+			<key>PayloadUUID</key>
+			<string>ADC02B8A-4EF0-4611-8781-98B6B8F90907</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>ctwap</string>
+	<key>PayloadDisplayName</key>
+	<string>CTWAP</string>
+	<key>PayloadIdentifier</key>
+	<string>com.ctcc.ctwap</string>
+	<key>PayloadOrganization</key>
+	<string>ctwap</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>E6B057C2-21F5-4975-AB70-6E7239022C70</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
